@@ -2,7 +2,9 @@
 
 PyHELP é um sistema interativo de ajuda que permite aos usuários consultar a documentação de funções ou bibliotecas do Python diretamente no terminal. Ele utiliza a função embutida `help()` do Python e oferece uma interface visual amigável, destacada por mensagens coloridas, para facilitar a navegação e o aprendizado.
 
+![DALL·E-2025-01-22-14 28](https://github.com/user-attachments/assets/4042446f-413f-406c-b594-e284d520be18)
 ---
+
 
 ## 🎯 **Funcionalidades**
 
